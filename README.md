@@ -1,9 +1,9 @@
 # Panther Parking
 
-COMP 3322 Software Engineering, Fall 2026. Team: **<team name>**
+COMP 3322 Software Engineering, Fall 2026. Team: **<Parking Masters>**
 
 | Member | GitHub username | Story I own |
-| --- | --- | --- |
+| Oslynn Williams | oslynnw3 | Not assigned yet |
 | | | |
 | | | |
 | | | |
